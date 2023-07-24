@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/niXman/mingw-builds-binaries/releases/download/8.5.0-rt_v10-rev0/x86_64-8.5.0-release-win32-seh-rt_v10-rev0.7z",
-            "hash": "0036583f8519b1c082d9851f89ee247d478b6e80cb3bd2ab540cdf37a1e47a15",
+            "hash": "0367136d2fa543e81381a53fcdeda92a0a5b660817dca4cc4d97ca33ec9bdbf5",
             "extract_dir": "mingw64"
         }
     },
