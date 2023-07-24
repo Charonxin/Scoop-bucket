@@ -5,8 +5,8 @@
     "license": "ZPL-2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/niXman/mingw-builds-binaries/releases/download/8.5.0-rt_v10-rev0/x86_64-8.5.0-release-posix-sjlj-rt_v10-rev0.7z",
-            "hash": "ad7bd3ce001bd57d59327eb0b08efc32d5e55aec1a89dec0a58b3ed008d6e5e4",
+            "url": "https://github.com/niXman/mingw-builds-binaries/releases/download/8.5.0-rt_v10-rev0/x86_64-8.5.0-release-posix-seh-rt_v10-rev0.7z",
+            "hash": "0036583f8519b1c082d9851f89ee247d478b6e80cb3bd2ab540cdf37a1e47a15",
             "extract_dir": "mingw64"
         }
     },
